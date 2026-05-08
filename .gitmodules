@@ -1,3 +1,6 @@
 [submodule "Rampastring.XNAUI"]
 	path = Rampastring.XNAUI
 	url = https://github.com/CnCNet/Rampastring.XNAUI.git
+[submodule "xna-cncnet-client-rename"]
+	path = xna-cncnet-client-rename
+	url = https://github.com/Chai-Lu/xna-cncnet-client-rename.git
